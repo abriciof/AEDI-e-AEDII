@@ -1,0 +1,14 @@
+/*--------------------------------------------------
+
+    UFAM - UNIVERSIDADE FEDERAL DO AMAZONAS
+
+ALUNO: FABRICIO DA COSTA GUIMARAES
+MATRICULA: 21950515
+DISCIPLINA: ALGORITMOS E ESTRUTURAS DE DADOS II
+PERIODO: ESPECIAL ERE/2020
+PROFESSOR: EDSON NASCIMENTO
+
+----------------------------------------------------*/
+
+
+link do vídeo de explicação: https://drive.google.com/file/d/1lgYC7rXAu6PL6wJDx4KOyLlbw5lyhcxb/view?usp=sharing
