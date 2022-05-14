@@ -5,18 +5,18 @@
 ## 🪧 AED I
 
 
-```python
-Lista Simplesmente Encadeada
-Lista Duplamente Encadeada
-Pilha
-Fila
-```
+>
+> - Lista Simplesmente Encadeada
+> - Lista Duplamente Encadeada
+> - Pilha
+> - Fila
+> 
+
 
 ## 🎫 AED II
 
-
-```python
-Ordenações
-Árvore 2-3-4
-Árvore com Lista Encadeada (Trabalho Final Análise de Textos)
-```
+>
+> - Ordenações
+> - Árvore 2-3-4
+> - Árvore com Lista Encadeada (Trabalho Final Análise de Textos)
+> 
