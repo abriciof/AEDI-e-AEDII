@@ -1,7 +1,22 @@
-<h1>  Trabalhos da Disciplina de Algoritmo e Estrutura de Dados II - ICOMP UFAM    </h1>
 
-<ul>
-  <li>Ordenações</li>  
-  <li>Árvore 2-3-4 </li>  
-  <li>Trabalho Final - Árvores com Lista Encadeada</li> 
-</ul>
+# 🔥 Trabalhos da Disciplina de Algoritmo e Estrutura de Dados I e II - ICOMP UFAM
+
+
+## 🪧 AED I
+
+
+```python
+Lista Simplesmente Encadeada
+Lista Duplamente Encadeada
+Pilha
+Fila
+```
+
+## 🎫 AED II
+
+
+```python
+Ordenações
+Árvore 2-3-4
+Árvore com Lista Encadeada (Trabalho Final Análise de Textos)
+```
