@@ -1,5 +1,5 @@
 
-# 🔥 Trabalhos da Disciplina de Algoritmo e Estrutura de Dados I e II - ICOMP UFAM
+# 🔥 Algoritmo e Estrutura de Dados I e II - ICOMP UFAM
 
 
 ## 🪧 AED I
